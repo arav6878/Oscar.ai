@@ -3,7 +3,7 @@ import {
   COLOR,
   Chessboard,
   MARKER_TYPE,
-} from "/Oscar.ai/cm-chessboard/Chessboard.js";
+} from "//Oscar.ai/cm-chessboard/Chessboard.js";
 
 var game_over = false;
 
